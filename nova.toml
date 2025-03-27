@@ -1,0 +1,5 @@
+[project]
+mapping = "frontend:.build"
+
+[plugins.sass]
+mapping = "static/scss:css"
